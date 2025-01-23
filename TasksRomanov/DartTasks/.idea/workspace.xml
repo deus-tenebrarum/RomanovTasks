@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fef8a358-d42d-42a6-ba83-5c3ae6b52677" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2s1G8Pk0r0o0xd1Xh8yZIOqkkJy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.Task1.dart.executor": "Run",
+    "Dart Command Line App.Task10.dart.executor": "Run",
+    "Dart Command Line App.Task11.dart.executor": "Run",
+    "Dart Command Line App.Task12.dart.executor": "Run",
+    "Dart Command Line App.Task13.dart.executor": "Run",
+    "Dart Command Line App.Task14.dart.executor": "Run",
+    "Dart Command Line App.Task15.dart.executor": "Run",
+    "Dart Command Line App.Task16.dart.executor": "Run",
+    "Dart Command Line App.Task17.dart.executor": "Run",
+    "Dart Command Line App.Task18.dart.executor": "Run",
+    "Dart Command Line App.Task19.dart.executor": "Run",
+    "Dart Command Line App.Task2.dart.executor": "Run",
+    "Dart Command Line App.Task20.dart.executor": "Run",
+    "Dart Command Line App.Task3.dart.executor": "Run",
+    "Dart Command Line App.Task4.dart.executor": "Run",
+    "Dart Command Line App.Task5.dart.executor": "Run",
+    "Dart Command Line App.Task6.dart.executor": "Run",
+    "Dart Command Line App.Task7.dart.executor": "Run",
+    "Dart Command Line App.Task8.dart.executor": "Run",
+    "Dart Command Line App.Task9.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/dart-sdk",
+    "settings.editor.selected.configurable": "dart.settings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef8a358-d42d-42a6-ba83-5c3ae6b52677" name="Changes" comment="" />
+      <created>1737615507282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737615507282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
